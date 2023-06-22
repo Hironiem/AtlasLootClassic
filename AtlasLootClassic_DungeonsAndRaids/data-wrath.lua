@@ -2113,7 +2113,7 @@ data["VioletHold"] = {
                 { 19, 39291 }, -- Torment of the Banished
                 { 21, "INV_Box_01", nil, AL["Titan Rune Beta"], nil },
                 { 22, 45941 }, -- Chestguard of the Lasher
-                { 23, 1217 }, -- ???
+                { 23, 45936 }, -- Legplates of Flourishing Resolve
                 { 24, 1217 }, -- ???
                 { 29, "ac2041" },
                 { 30, "ac1865" },
