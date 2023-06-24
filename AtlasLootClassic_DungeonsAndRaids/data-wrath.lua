@@ -591,7 +591,7 @@ data["AhnKahet"] = {
                 { 18, 39249 }, -- Shoulderplates of Bloodshed
                 { 21, "INV_Box_01", nil, AL["Titan Rune Beta"], nil },
                 { 22, 45314 }, -- Ignitor Rod
-                { 23, 1217 }, -- ???
+                { 23, 45310 }, -- Gauntlets of the Iron Furnace
                 { 24, 1217 }, -- ???
                 { 30, "ac2038" },
             }
@@ -916,7 +916,7 @@ data["DrakTharonKeep"] = {
                 { 19, 39236 }, -- Trespasser's Boots
                 { 21, "INV_Box_01", nil, AL["Titan Rune Beta"], nil },
                 { 22, 45703 }, -- Spark of Hope
-                { 23, 1217 }, -- ???
+                { 23, 45687 }, -- Helm of Veiled Energies
                 { 24, 1217 }, -- ???
                 { 30, "ac2057" },
             }
@@ -1703,7 +1703,7 @@ data["TheNexus"] = {
                 { 19, 39398 }, -- Massive Skeletal Ribcage
                 { 21, "INV_Box_01", nil, AL["Titan Rune Beta"], nil },
                 { 22, 45832 }, -- Mantle of the Preserver
-                { 23, 1217 }, -- ???
+                { 23, 45713 }, -- Nurturing Touch
                 { 24, 1217 }, -- ???
             }
         },
@@ -2683,7 +2683,7 @@ data["TrialoftheChampion"] = {
                 { 20, "INV_Box_01", nil, AL["Titan Rune Beta"], nil },
                 { 21, 46030 }, -- Treads of the Dragon Council
                 { 22, 46021 }, -- Royal Seal of King Llane
-                { 23, 1217 }, -- ???
+                { 23, 46031 }, -- Touch of Madness
                 { 20, "ac3804" },
             }
         },
